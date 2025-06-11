@@ -1,8 +1,0 @@
-streamlit
-pandas
-langchain
-langgraph
-langchain-google-genai
-matplotlib
-openai
-python-dotenv
